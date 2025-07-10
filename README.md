@@ -13,4 +13,18 @@ This project demonstrates an end-to-end cloud data pipeline for analyzing agricu
 ---
 
 ## 📁 Folder Structure
+snowflake-aws-powerbi-project/
+├── snowflake/
+│ └── snowflake_aws_script.sql
+├── aws/
+│ └── (Add any S3 notes or config if needed)
+├── powerbi/
+│ ├── agriculture project.pbix
+│ └── dashboard_screenshot.png <-- (optional but recommended)
+├── data/
+│ └── data_season.csv
+├── README.md
+
+
+
 
